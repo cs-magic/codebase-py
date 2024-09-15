@@ -1,3 +1,5 @@
 [submodule "claude-search-automation"]
 	path = claude-search-automation
 	url = ./claude-search-automation
+[submodule "./claude-search-automation"]
+	url = git@github.com:cs-magic/claude-search-automation.git
