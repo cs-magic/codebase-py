@@ -1,0 +1,3 @@
+[submodule "claude-search-automation"]
+	path = claude-search-automation
+	url = ./claude-search-automation
