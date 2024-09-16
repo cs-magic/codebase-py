@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "codebase-py"
+version = "0.1.0"
+description = ""
+authors = ["markshawn2020 <shawninjuly@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyperclip = "^1.9.0"
+pyautogui = "^0.9.54"
+pynput = "^1.7.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
