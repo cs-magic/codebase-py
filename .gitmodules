@@ -1,7 +1,9 @@
 [submodule "ext_alfred_claude-search"]
 	path = apps/ext_alfred_claude_search
 	url = git@github.com:cs-magic/alfred-ext_claude-search.git
+	branch = main
 
 [submodule "uni-api"]
 	path = apps/uni-api
 	url = git@github.com:cs-magic/uni-api.git
+	branch = main
