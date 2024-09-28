@@ -7,3 +7,6 @@
 	path = apps/uni-api
 	url = git@github.com:cs-magic/uni-api.git
 	branch = main
+[submodule "apps/scraper_companies"]
+	path = apps/scraper_companies
+	url = git@github.com:cs-magic/scraper_companies.git
