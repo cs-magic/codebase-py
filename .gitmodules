@@ -11,3 +11,12 @@
 [submodule "apps/scraper_companies"]
 	path = apps/scraper_companies
 	url = git@github.com:cs-magic/scraper_companies.git
+[submodule "apps/simple-spiders"]
+	path = apps/simple-spiders
+	url = git@github.com:cs-magic/simple-spiders.git
+[submodule "apps/scrapy-spiders"]
+	path = apps/scrapy-spiders
+	url = git@github.com:cs-magic/scrapy-spiders.git
+[submodule "cases/rama"]
+	path = cases/rama
+	url = git@github.com:cs-magic/cases_rama.git
