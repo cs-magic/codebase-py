@@ -39,6 +39,7 @@ sqlmodel = "^0.0.22"
 scrapy = "^2.11.2"
 pydantic-settings = "^2.5.2"
 gerapy = "^0.9.13"
+js2py = "^0.74"
 
 
 [build-system]
