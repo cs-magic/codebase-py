@@ -40,6 +40,7 @@ scrapy = "^2.11.2"
 pydantic-settings = "^2.5.2"
 gerapy = "^0.9.13"
 js2py = "^0.74"
+apitally = {extras = ["fastapi"], version = "^0.13.0"}
 
 
 [build-system]
