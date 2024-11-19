@@ -20,3 +20,12 @@
 [submodule "cases/rama"]
 	path = cases/rama
 	url = git@github.com:cs-magic/cases_rama.git
+[submodule "cases/hand-future-backend"]
+	path = cases/xieshou-backend
+	url = git@github.com:mark-freelance/hand-future-backend.git
+[submodule "packages/log"]
+	path = packages/log
+	url = git@github.com:cs-magic/log_py.git
+[submodule "cases/case_pdf-parser"]
+	path = cases/pdf-parser
+	url = git@github.com:cs-magic/case_pdf-parser.git
