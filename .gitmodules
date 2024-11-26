@@ -29,3 +29,6 @@
 [submodule "cases/case_pdf-parser"]
 	path = cases/pdf-parser
 	url = git@github.com:cs-magic/case_pdf-parser.git
+[submodule "lab/ai-data-analysis"]
+	path = lab/ai-data-analysis
+	url = git@github.com:MarkShawn2020/ai-data-analysis.git
